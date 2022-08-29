@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\bin\Debug\net6.0\el massiva.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\bin\Debug\net6.0\el massiva.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\bin\Debug\net6.0\el massiva.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\bin\Debug\net6.0\el massiva.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\bin\Debug\net6.0\el massiva.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\el massiva.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\el massiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\el massiva.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\el massiva.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\el massiva.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\el massiva.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\refint\el massiva.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\el massiva.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\el massiva.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\el massiva\obj\Debug\net6.0\ref\el massiva.dll
