@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\sred arifm.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\sred arifm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\sred arifm.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\sred arifm.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\sred arifm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\bin\Debug\net6.0\sred arifm.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\bin\Debug\net6.0\sred arifm.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\bin\Debug\net6.0\sred arifm.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\bin\Debug\net6.0\sred arifm.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\bin\Debug\net6.0\sred arifm.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\sred arifm.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\refint\sred arifm.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\sred arifm.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\sred arifm.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-7\sred arifm\obj\Debug\net6.0\ref\sred arifm.dll
