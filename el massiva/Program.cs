@@ -14,7 +14,8 @@ if(row < number.GetLength(0))
 {
     if(column < number.GetLength(0)+1)
     {
-        Console.WriteLine(number[row, column]);
+        Console.Write("Значение элемента ");
+        Console.Write(number[row, column]);
     }
     else
     {
